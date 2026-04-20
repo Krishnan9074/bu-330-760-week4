@@ -33,3 +33,6 @@ The agent will work through each question in `math_questions.md` and print the R
 - `products.json` - product catalog with prices
 - `math_questions.md` - the questions the agent solves
 - `.env.example` - template for your API key
+
+##Video Link :
+https://www.loom.com/share/a56b8da3a7c04448a7a69fe6b297a694
