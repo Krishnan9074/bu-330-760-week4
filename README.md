@@ -10,7 +10,7 @@ A ReAct agent that solves questions using tool calls.
    ```bash
    cp .env.example .env
    ```
-   Then edit `.env` and replace `your-key-here` with your key from [Google AI Studio](https://aistudio.google.com/apikey).
+   Then edit `.env` and replace `your-key-here` with your OpenAI API key.
 
    To use a different provider, change the `MODEL` variable in `agent.py` and set the matching key in `.env`.
 
